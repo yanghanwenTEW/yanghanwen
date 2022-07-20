@@ -1,11 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T00:51:28.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sJ84s5ixRZ2gP6ePhVHd" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T01:01:16.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KUlgAdMi0Ci7BUoHRzyE" version="20.1.1" type="github">
   <diagram id="wd6UPrsnVSSuihcg207h" name="Page-1">
     <mxGraphModel dx="1829" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lWlp_knB472dI00UQoTM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="lWlp_knB472dI00UQoTM-1" value="基础状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lWlp_knB472dI00UQoTM-2" target="lWlp_knB472dI00UQoTM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-2" value="警觉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lWlp_knB472dI00UQoTM-3" target="lWlp_knB472dI00UQoTM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-3" value="闻到血" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-4" value="寻找" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lWlp_knB472dI00UQoTM-5" target="lWlp_knB472dI00UQoTM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lWlp_knB472dI00UQoTM-5" value="听到声音" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
